@@ -1,0 +1,42 @@
+{
+	"core:lake" : {
+		"types" : {
+			"starLakes" : {
+				"name" : "Star Lake",
+				"templates" : {
+			
+					"avlhll00" : { "animation" : "star lakes/starlk01",  
+					"mask": ["BB", "BB"],
+                    "allowedTerrains": [ "stardust" ]
+					},						
+					
+					"avlhll01" : { "animation" : "star lakes/starlk02", 					 
+					"mask": ["VBB", "BBB"],
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"avlhll02" : { "animation" : "star lakes/starlk03", 					 
+					"mask": ["BBB", "BBB"],
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"avlhll03" : { "animation" : "star lakes/starlk04", 					 
+					"mask": ["BBB", "VBB"],
+                    "allowedTerrains": [ "stardust" ]
+					},
+					
+					"avlhll04" : { "animation" : "star lakes/starlk05", 
+					"mask": ["BBBBBB", "BBBBBB"], 
+                    "allowedTerrains": [ "stardust" ]
+					}		
+				}
+			}
+			
+		}	
+	}	
+}
+	
+	
+
+
+	

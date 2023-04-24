@@ -1,0 +1,58 @@
+{
+	"core:mountain": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"AVLMTVO1": {
+						"animation": "star mountains/starMt1",
+						"mask": ["VVVVVV", "VBBBBB", "VBBBBB", "VBBBVV"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					"AVLMTVO2": {
+						"animation": "star mountains/starMt2",
+						"mask": ["VVVVVV", "VBBBBV", "VBBBBB", "VVVBBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"AVLMTVO3": {
+						"animation": "star mountains/starMt3",
+						"mask": ["VVVV", "VBBB", "VBBV"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"AVLMTVO4": {
+						"animation": "star mountains/starMt4",
+						"mask": ["VVVV", "VBBB", "VVBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"AVLMTVO5": {
+						"animation": "star mountains/starMt5",
+						"mask": ["VVBB", "VBBV"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+					
+					"AVLMTVO6": {
+						"animation": "star mountains/starMt6",
+						"mask": ["VBBV", "VVBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					}
+					
+				}
+			}	
+		}
+	}
+}

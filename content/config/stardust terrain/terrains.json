@@ -1,0 +1,18 @@
+{
+	"stardust" :
+	{
+		"text" : "星尘",
+		"moveCost" : 100,
+		"minimapUnblocked" : [ 131, 86, 172 ],
+		 "minimapBlocked"   : [ 104, 61, 174 ],
+		"music" : "stardust/Stardust Theme",
+		"tiles" : "stardust/startTerrian",
+		"river" : "starRiver",
+		"rockTerrain":"rock",
+		"shortIdentifier" : "sd",
+		"type" : ["LAND", "SURFACE"],
+		"battleFields" : ["stardust"],
+		"horseSound" : "horse07",
+		"horseSoundPenalty" : "horse27"
+	}
+}

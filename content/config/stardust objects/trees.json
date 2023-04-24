@@ -1,0 +1,75 @@
+{
+	"core:trees" : {
+		"types" : {
+			"startrees" : {
+				"name" : "Tree",
+				"templates" : {
+
+					"avlhpn00" : { "animation" : "star trees/starTr01", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["stardust"]						
+					},
+					
+					"avlhpn01" : { "animation" : "star trees/starTr02", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["stardust"]						
+					},
+					
+					"avlhpn02" : { "animation" : "star trees/starTr03", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["stardust"]						
+					},
+					
+					"avlhpn04" : { "animation" : "star trees/starTr04", 
+					"mask" : ["VV","VB"], 
+					"allowedTerrains": ["stardust"]						
+					},
+					
+					"avlhpn05" : { "animation" : "star trees/starTr05", 
+					"mask" : ["VVV","VBV"], 
+					"allowedTerrains": ["stardust"]						
+					},
+
+					"avlhpn06" : { "animation" : "star trees/starTr06", 
+					"mask" : ["VVV","VBV", "VBV"], 
+					"allowedTerrains": ["stardust"]						
+					},
+
+					"avlhpn07" : { "animation" : "star trees/starTr07", 
+					"mask" : ["VVVVV","VVBBV", "VBBVV"], 
+					"allowedTerrains": ["stardust"]						
+					},
+
+					"avlhpn08" : { "animation" : "star trees/starTr08", 
+					"mask" : ["VVVVV","VVBBV", "VBBVV"], 
+					"allowedTerrains": ["stardust"]						
+					},
+
+					"avlhpn09" : { "animation" : "star trees/starTr09", 
+					"mask" : ["VVVVV","VBBVV", "VVBBV"], 
+					"allowedTerrains": ["stardust"]
+					},
+
+					"avlhpn10" : { "animation" : "star trees/starTr10", 
+					"mask" : ["VVVVV","VBBVV", "VVBBV"], 
+					"allowedTerrains": ["stardust"]						
+					},	
+
+					"avlhpn11" : { "animation" : "star trees/starTr11", 
+					"mask" : ["VVVVV","VBBVV", "VBBBV", "VVBBV"], 
+					"allowedTerrains": ["stardust"]						
+					},
+
+					"avlhpn12" : { "animation" : "star trees/starTr12", 
+					"mask" : ["VVVVV","VVBBV", "VBBBV", "VBBVV"], 
+					"allowedTerrains": ["stardust"]
+					}		
+				}
+			}
+		}
+	}	
+}	
+	
+
+
+	

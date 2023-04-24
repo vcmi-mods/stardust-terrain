@@ -1,0 +1,43 @@
+{
+	"core:hole": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"FVOD0119": {
+						"animation": "star holes/FVOD0119",
+						"mask": ["V"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					}
+				}
+			}
+		}
+	},
+	
+	"core:crater": {
+		"types": {
+			"object": {
+				"templates": {
+
+					"AVLctrd0": {
+						"animation": "star holes/AVLctrd0",
+						"mask": ["BB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					},
+
+					"FVOD0120": {
+						"animation": "star holes/FVOD0120",
+						"mask": ["BBB"],
+						"allowedTerrains": [
+							"stardust"
+						]
+					}
+				}
+			}
+		}
+	}
+}

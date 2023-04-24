@@ -1,0 +1,57 @@
+{
+	"name" : "Stardust terrain",
+	"description" : "Assets for stardust terrain.",
+	
+	"author" : "Ben Yan",
+	"contact" : "benyan9110@gmail.com",
+	"version" : "1.2.1",
+	"changelog" :
+	{
+		"1.2.1"   : [ "Fixed delta rivers" ],
+		"1.2.0"   : [ "Mod rewritten for new format" ],
+		"1.1.0"   : [ "Added mines and obelisk" ],
+		"1.0"   : [ "Initial release" ]
+	},
+	"compatibility" :
+	{
+		"min" : "1.2.0"
+	},
+	"modType" : "Graphical",	
+	//"depends" : ["asylumNew.asylum"],Please do not make them together.
+	"rivers":
+	[
+		"config/stardust terrain/river.json"
+	],
+		
+	"objects" :
+	[ 
+		"config/stardust objects/deltas.json",
+		"config/stardust objects/trees.json",
+		"config/stardust objects/chasms.json",
+		"config/stardust objects/flowers.json",
+		"config/stardust objects/lakes.json",
+		"config/stardust objects/holes.json",
+		"config/stardust objects/mountains.json",
+		"config/stardust objects/mushrooms.json",
+		"config/stardust objects/mines.json",
+		"config/stardust objects/rocks.json",
+		"config/stardust objects/sign.json",
+		"config/stardust objects/mageMirror.json",
+		"config/stardust objects/starFlake.json",
+		"config/stardust objects/starDancer.json",
+		"config/stardust objects/starBottle.json",
+		"config/stardust objects/others.json"
+	],
+	"battlefields" :
+	[
+		"config/stardust terrain/battlefields.json"
+	],
+	"obstacles" :
+	[
+		"config/stardust terrain/obstacles.json"
+	],
+	"terrains" :
+	[
+		"config/stardust terrain/terrains.json"
+	]
+}
