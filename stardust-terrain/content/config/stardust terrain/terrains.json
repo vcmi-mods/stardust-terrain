@@ -1,7 +1,7 @@
 {
 	"stardust" :
 	{
-		"text" : "星尘",
+		"text" : "Stardust",
 		"moveCost" : 100,
 		"minimapUnblocked" : [ 131, 86, 172 ],
 		 "minimapBlocked"   : [ 104, 61, 174 ],
@@ -10,7 +10,7 @@
 		"river" : "starRiver",
 		"rockTerrain":"rock",
 		"shortIdentifier" : "sd",
-		"type" : ["LAND", "SURFACE"],
+		"type" : ["LAND", "SUB"],
 		"battleFields" : ["stardust"],
 		"horseSound" : "horse07",
 		"horseSoundPenalty" : "horse27"
