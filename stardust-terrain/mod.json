@@ -4,9 +4,10 @@
 	
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.2.2",
+	"version" : "1.2.3",
 	"changelog" :
 	{
+		"1.2.3"   : [ "Added Stardust Dragon Utopia" ],		
 		"1.2.2"   : [ "Fixed terrain placement" ],
 		"1.2.1"   : [ "Fixed delta rivers" ],
 		"1.2.0"   : [ "Mod rewritten for new format" ],
@@ -17,8 +18,7 @@
 	{
 		"min" : "1.2.0"
 	},
-	"modType" : "Graphical",	
-	//"depends" : ["asylumNew.asylum"],Please do not make them together.
+	"modType" : "Graphical",
 	"rivers":
 	[
 		"config/stardust terrain/river.json"
@@ -41,6 +41,7 @@
 	"config/stardust objects/starFlake.json",
 	"config/stardust objects/starDancer.json",
 	"config/stardust objects/starBottle.json",
+	"config/stardust objects/starUtopia.json",
 	"config/stardust objects/others.json"
     ],
 	"battlefields" :
