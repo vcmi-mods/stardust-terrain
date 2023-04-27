@@ -31,7 +31,8 @@
 					{
 						"animation" : "star misc/starDancer", 
 						"visitableFrom" : [ "---", "-++", "+++" ], 
-						"mask" : ["VVV","VBV","BBA"]
+						"mask" : ["VVV","VBV","BBA"],
+						"allowedTerrains": [ "stardust" ]
 					}
 				}
 			}
