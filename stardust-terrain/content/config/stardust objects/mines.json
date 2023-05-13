@@ -3,7 +3,7 @@
 		"types" : {
 			"crystalCavern" : {
 				"templates": {
-					"AVMcrvo0as" : {
+					"AVMcrvo0sd" : {
 						"animation" : "star mines/AVMCRVO0",
 						"mask" : ["VVVV","VVVV","VBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -14,7 +14,7 @@
 			"goldMine" : {
 				"templates": {
 					
-					"AVMgovo0as" : {
+					"AVMgovo0sd" : {
 						"animation" : "star mines/AVMgovo0",
 						"mask" : ["VVVV","VVVV","VBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -26,7 +26,7 @@
 			"sawmill" : {
 				"templates" : {
 					
-					"AVMswhl1as" : {
+					"AVMswhl1sd" : {
 						"animation" : "star mines/AVMsawl0", 
 						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -37,7 +37,7 @@
 			
 			"alchemistLab" : {
 				"templates" : {
-					"AVMalch0as" : {
+					"AVMalch0sd" : {
 						"animation" : "star mines/AVMalch0",
 						"mask" : ["VVV", "VVV", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -48,7 +48,7 @@
 			
 			"orePit" : {
 				"templates" : {
-					"AVMORlv0as" : {
+					"AVMORlv0sd" : {
 						"animation" : "star mines/AVMORlv0",
 						"mask" : ["BBB", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -59,7 +59,7 @@
 			
 			"sulfurDune" : {
 				"templates" : {
-					"AVMsulf0as" : {
+					"AVMsulf0sd" : {
 						"animation" : "star mines/AVMsulf0",
 						"mask" : ["VVV", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
@@ -70,7 +70,7 @@
 			
 			"gemPond" : {
 				"templates" : {
-					"AVMgelv0as" : {
+					"AVMgelv0sd" : {
 						"animation" : "star mines/AVMgelv0",
 						"mask" : ["BBB", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],

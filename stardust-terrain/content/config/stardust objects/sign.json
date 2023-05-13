@@ -3,7 +3,7 @@
 		"types": {
 			"object": {
 				"templates": {
-					"FALF0174": {
+					"FALF01sd": {
 						"animation": "star sign/FALF0174",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["A"],

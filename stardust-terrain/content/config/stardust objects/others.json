@@ -3,7 +3,7 @@
 		"types": {
 			"object": {
 				"templates": {
-					"AvXOblAs": {
+					"AvXOblsd": {
 						"animation": "star misc/AvXOblAs",
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VA"],
