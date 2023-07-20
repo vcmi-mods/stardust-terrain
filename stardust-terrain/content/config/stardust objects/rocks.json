@@ -2,8 +2,7 @@
 	"core:rock": {
 
 		"types": {
-			"stardustRocksHills01": {
-				"name": "Rock",
+			"object": {
 				"templates": {
 					"FDTD0009": {
 						"animation": "star rocks/FDTD0009",

@@ -1,8 +1,7 @@
 {
 	"core:trees" : {
 		"types" : {
-			"startrees" : {
-				"name" : "Tree",
+			"object" : {
 				"templates" : {
 
 					"avlhpn00" : { "animation" : "star trees/starTr01", 

@@ -1,8 +1,7 @@
 {
 	"core:crater": {
 		"types": {
-			"starcrater01": {
-				"name": "Crater",
+			"object": {
 				"templates": {
 	
 					"avlc10l0": {
