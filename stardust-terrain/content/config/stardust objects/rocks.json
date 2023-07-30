@@ -2,7 +2,8 @@
 	"core:rock": {
 
 		"types": {
-			"object": {
+			"stardustRocksHills01": {
+				"name": "Rock",
 				"templates": {
 					"FDTD0009": {
 						"animation": "star rocks/FDTD0009",
@@ -149,6 +150,27 @@
 						"mask": [ "VB"],
 						"allowedTerrains": [
 							"stardust"
+						]
+					},
+					"FG001rock": {
+						"animation": "star rocks/FGRC01",
+						"mask": [ "VVV","VVV","VBB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					"FG002rock": {
+						"animation": "star rocks/FGRC02",
+						"mask": [ "VV","BB"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
+					},
+					"FG003rock": {
+						"animation": "star rocks/FGRC03",
+						"mask": [ "VV","VB"],
+						"allowedTerrains": [
+							"fieldGlory"
 						]
 					}
 				}

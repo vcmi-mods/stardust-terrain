@@ -71,7 +71,27 @@
 					"starfl14" : { "animation" : "star flowers/starfl14",
 					"mask" : [ "VVVV","VBBB" ], 
                     "allowedTerrains": [ "stardust" ]
-					}				
+					},
+					
+					"fgflower01" : { "animation" : "star flowers/FGRQ001",
+					"mask" : [ "B" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+
+					"fgflower02" : { "animation" : "star flowers/FGRQ002",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+					
+					"fgflower03" : { "animation" : "star flowers/FGRQ003",
+					"mask" : [ "VB" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					},	
+
+					"fgflower04" : { "animation" : "star flowers/FGRQ004",
+					"mask" : [ "VVV", "VBV" ], 
+                    "allowedTerrains": [ "fieldGlory" ]
+					}					
 				}
 			}		
 		}

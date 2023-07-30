@@ -10,6 +10,13 @@
 						"allowedTerrains": [
 							"stardust"
 						]
+					},
+					"FGHOLE01": {
+						"animation": "star holes/FGHOLE02",
+						"mask": ["V"],
+						"allowedTerrains": [
+							"fieldGlory"
+						]
 					}
 				}
 			}
@@ -34,6 +41,14 @@
 						"mask": ["BBB"],
 						"allowedTerrains": [
 							"stardust"
+						]
+					},
+					
+					"FGHOLE02": {
+						"animation": "star holes/FGHOLE01",
+						"mask": ["BBB"],
+						"allowedTerrains": [
+							"fieldGlory"
 						]
 					}
 				}

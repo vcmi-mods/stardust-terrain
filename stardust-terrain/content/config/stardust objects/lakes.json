@@ -2,7 +2,7 @@
 	"core:lake" : {
 		"types" : {
 			"starLakes" : {
-				"name" : "Star Lake",
+				"name" : "Lake",
 				"templates" : {
 			
 					"avlhll00" : { "animation" : "star lakes/starlk01",  
@@ -28,7 +28,22 @@
 					"avlhll04" : { "animation" : "star lakes/starlk05", 
 					"mask": ["BBBBBB", "BBBBBB"], 
                     "allowedTerrains": [ "stardust" ]
-					}		
+					},
+					
+					"fglake01" : { "animation" : "star lakes/FGLK01",  
+					"mask" : [ "VBBBVV", "VBBBBV" ],
+                    "allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"fglake02" : { "animation" : "star lakes/FGLK02",  
+					"mask" : [ "VVV", "BBB" ],
+                    "allowedTerrains": [ "fieldGlory" ]
+					},
+					
+					"fglake03" : { "animation" : "star lakes/FGLK03",  
+					"mask" : [ "VVVV", "VBBB" ],
+                    "allowedTerrains": [ "fieldGlory" ]
+					}
 				}
 			}
 			

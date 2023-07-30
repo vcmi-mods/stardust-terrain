@@ -8,6 +8,12 @@
 						"mask" : ["VVVV","VVVV","VBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
 						"allowedTerrains" : ["stardust"]
+					},
+					"gloryCrystal" : {
+						"animation" : "star mines/AVMCRVO0G",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
 					}
 				}
 			},
@@ -19,6 +25,12 @@
 						"mask" : ["VVVV","VVVV","VBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
 						"allowedTerrains" : ["stardust"]
+					},
+					"gloryGold" : {
+						"animation" : "star mines/AVMgovo0G",
+						"mask" : ["VVVV","VVVV","VBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
 					}
 				}
 			},
@@ -31,6 +43,12 @@
 						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
 						"allowedTerrains" : ["stardust"]
+					},
+					"gloryWood" : {
+						"animation" : "AVMsawl0", 
+						"mask" : ["VVVVV", "VVVBB", "VBBAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
 					}
 				}
 			},
@@ -41,7 +59,7 @@
 						"animation" : "star mines/AVMalch0",
 						"mask" : ["VVV", "VVV", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["stardust"]
+						"allowedTerrains" : ["stardust","fieldGlory"]
 					}
 				}
 			},
@@ -53,6 +71,12 @@
 						"mask" : ["BBB", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
 						"allowedTerrains" : ["stardust"]
+					},
+					"gloryPit" : {
+						"animation" : "star mines/AVMORlv0G",
+						"mask" : ["BBB", "BAB"],
+						"visitableFrom" : [ "---", "-+-", "+++" ],
+						"allowedTerrains" : ["fieldGlory"]
 					}
 				}
 			},
@@ -63,7 +87,7 @@
 						"animation" : "star mines/AVMsulf0",
 						"mask" : ["VVV", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["stardust"]
+						"allowedTerrains" : ["stardust","fieldGlory"]
 					}
 				}
 			},
@@ -74,7 +98,7 @@
 						"animation" : "star mines/AVMgelv0",
 						"mask" : ["BBB", "BAB"],
 						"visitableFrom" : [ "---", "-+-", "+++" ],
-						"allowedTerrains" : ["stardust"]
+						"allowedTerrains" : ["stardust","fieldGlory"]
 					}
 				}
 			}

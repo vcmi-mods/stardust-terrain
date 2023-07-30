@@ -23,11 +23,12 @@
 							"heroLevel" : 5,
 						},
 						"resources": {"gold" : 3000, "gems": 6},
-						"message":"{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.", 
+						"spells" : [ { "level" : 2 } ],
+						"message":"{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you acquired some bonuses from the mirror.", 
 						"removeObject": true
 					}
 				],
-				"onSelectMessage" : "{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you found some resources from underground.",
+				"onSelectMessage" : "{Magic Mirror}\r\n\r\nMagic Mirror feels really tired to the question who is the most beautiful woman. Of course you are not come for this boring question. After talking with him, you acquired some bonuses from the mirror.",
 				"onEmptyMessage": "{Magic Mirror}\r\n\r\nIt is a normal mirror here. Maybe you are too weak in spell power to talk with a magic mirror. You need to reach at least level 5.",
 				"visitMode" : "unlimited",
 				"templates" : 

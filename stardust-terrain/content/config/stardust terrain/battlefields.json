@@ -1,3 +1,16 @@
 {
-	"stardust": { "graphics" : "stardust/stardustBG.png" }
+	"stardust": { "graphics" : "stardust/asphalt bgy.png" },
+	"fieldGlory": 
+	{ 
+		"graphics" : "stardust/fieldGlory bgy.bmp",
+		"bonuses": [
+			{
+				"type" : "LUCK",
+				"val" : -2,
+				"valueType" : "BASE_NUMBER",
+				"stacking" : "In Fields of Glory",
+				"propagator": "BATTLE_WIDE"
+			}
+		]
+	}
 }

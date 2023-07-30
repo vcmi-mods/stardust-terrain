@@ -1,12 +1,15 @@
 {
-	"name" : "Stardust terrain",
-	"description" : "Assets for stardust terrain.",
-	
+	"name" : "Stardust and Fields of Glory terrain",
+	"description" : "Assets for stardust and fields of glory terrain.",
 	"author" : "Ben Yan",
 	"contact" : "benyan9110@gmail.com",
-	"version" : "1.2.5",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"modType" : "Objects",
+	"version" : "1.3.0",
 	"changelog" :
 	{
+		"1.3.0"   : [ "Field of Glory added" ],
 		"1.2.5"   : [ "Small fixes for vcmi-1.3" ],
 		"1.2.4"   : [ "Fixed conflict with Ashalt terrain" ],	
 		"1.2.3"   : [ "Added Stardust Dragon Utopia" ],		
@@ -18,9 +21,8 @@
 	},
 	"compatibility" :
 	{
-		"min" : "1.2.0"
+		"min" : "1.3.0"
 	},
-	"modType" : "Graphical",
 	"rivers":
 	[
 		"config/stardust terrain/river.json"
@@ -28,6 +30,7 @@
 		
     "objects" :
     [ 
+	"config/stardust objects/bones.json",
 	"config/stardust objects/deltas.json",
 	"config/stardust objects/trees.json",
 	"config/stardust objects/chasms.json",
@@ -43,7 +46,7 @@
 	"config/stardust objects/starFlake.json",
 	"config/stardust objects/starDancer.json",
 	"config/stardust objects/starBottle.json",
-	"config/stardust objects/starUtopia.json",
+	"config/stardust objects/bank1.json",
 	"config/stardust objects/others.json"
     ],
 	"battlefields" :

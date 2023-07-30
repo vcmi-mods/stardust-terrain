@@ -8,6 +8,12 @@
 						"visitableFrom": ["---", "+++", "+++"],
 						"mask": ["VV", "VA"],
 						"allowedTerrains": ["stardust"]
+					},
+					"gloryObelisk": {
+						"animation": "AvXOblR",
+						"visitableFrom": ["---", "+++", "+++"],
+						"mask": ["VV", "VA"],
+						"allowedTerrains": ["fieldGlory"]
 					}
 				}
 			}
